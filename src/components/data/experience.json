@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "role": "Research Analyst",
+    "organisation": "Institutional Shareholder Services (ISS STOXX)",
+    "startDate": "April, 2023",
+    "endDate": "- Present,",
+    "location": "Mumbai, India",
+    "experiences": [
+      "Part of the Energy and Extractives Team",
+      "Screening the companies involved in Fossil fuels and Renewables"
+    ],
+    "imageSrc": "company/iss.jpeg"
+  },
+  {
+    "id": 2,
+    "role": "ESG Research Analyst",
+    "organisation": "Akadia Inc.",
+    "startDate": "April, 2022",
+    "endDate": "- June, 2022",
+    "location": "Mumbai, India",
+    "experiences": [
+      "Part of the Negative Screening Team",
+      "Screening the companies involved in Alcohol, GMO, Porn, Fossil fuels, etc."
+    ],
+    "imageSrc": "company/akadia.jpeg"
+  },
+  {
+    "id": 3,
+    "role": "Freelancer",
+    "organisation": "Global and Local bussiness",
+    "startDate": "May, 2016",
+    "endDate": "- June, 2021",
+    "location": "Solapur, India",
+    "experiences": [
+      "Helped local businesses and non-profit organizations deploy commercial websites.",
+      "Part of Shivpratishtan is a local organization that helps poor, women, and elderly people avail of government schemes"
+    ],
+    "imageSrc": "company/free.png"
+  }
+]
