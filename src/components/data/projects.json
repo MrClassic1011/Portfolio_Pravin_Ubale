@@ -1,34 +1,50 @@
 [
   {
     "key": 1,
-    "title": "React E-Commerce",
-    "imageSrc": "https://cdn.pixabay.com/photo/2018/02/04/17/39/crypto-currency-3130381_640.jpg",
-    "description": "This is a project made with complete React js.",
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Navigating the Path to a Greener Future: Analyzing the CAPEX Trend in the Electric Power Generation Sector",
+    "imageSrc": "https://pixabay.com/get/g4f6e6fd30b59726fbf4d8d9a86484ed45b20b950b52828aa611e8a1e6c9f54b65dc5c9668ba1c8a61da6de794e3361b21a2990d52bf1ff875a718da9d8ae7fe880dfa81eae5620151077bad1ababbdb7_640.jpg",
+    "description": "Skills: ESG Research, Renewable Energy, Oil and Gas Industry, Coal Power and mining, ESRS standards, GRI, EU Taxonomy, SFDR, CSRD, SDGs, Python, Excel",
+    "demo": "https://insights.issgovernance.com/posts/navigating-the-path-to-a-greener-future-analyzing-the-capex-trend-in-the-electric-power-generation-sector/",
+    "source": "https://github.com/MrClassic1011"
   },
   {
     "key": 2,
-    "title": "MERN Blogging",
-    "imageSrc": "https://cdn.pixabay.com/photo/2017/05/02/15/30/streets-2278471_640.jpg",
-    "description": "This is a project made with complete React js.",
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Decarbonization of Indian Army's Transport Sector: Assessing Emissions and Evaluating the Applicability of Different Green Technologies",
+    "imageSrc": "https://pixabay.com/get/g5fe85dd60736a794890b729552ba17ed7aa380b725522e6ead0ae41561cefb7a3e84dcbc672bd322e639b77cc34b8132.jpg",
+    "description": "Skills: Decarbonization, GHG Accounting, Climate Modelling, Hydrogen Fuel, ESG Research, Python, Excel",
+    "demo": "/assets/d.pdf",
+    "source": "https://github.com/MrClassic1011"
   },
   {
     "key": 3,
-    "title": "React Recipe",
-    "imageSrc": "https://cdn.pixabay.com/photo/2016/08/16/17/12/skyscrapers-1598418_640.jpg",
-    "description": "This is a project made with complete React js.",
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Pravin Ubale | ESG Research and Sustainable Solutions",
+    "imageSrc": "https://pixabay.com/get/g6c1f8563f0b29474dff63af08a4c0ddbc876a82e4d9c3f68ec898da7e9e8bad35909e94b7c22fd855ac44fed1013d364.jpg",
+    "description": "Skills: Web Development, HTML, CSS, JS, SQL :- Pravin is proficient in web development, specializing in building responsive, dynamic interfaces using React.js and integrating APIs. He ensures clean, optimized code and has experience with full-stack development.",
+    "demo": "https://pravinubale-mr-classics-projects.vercel.app/",
+    "source": "https://github.com/MrClassic1011"
   },
   {
     "key": 4,
-    "title": "React Firebase App",
-    "imageSrc": "https://cdn.pixabay.com/photo/2021/03/02/01/07/cyberpunk-6061251_640.jpg",
-    "description": "This is a project made with complete React js.",
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Estimation of Energy Demand in the Argentina Using Econometric Model",
+    "imageSrc": "https://pixabay.com/get/gd5b3a1c5867d3923a1109121e22da340797c63619449226eef070b402e1bd76ed784fc01166157d153712548d7c7e801.jpg",
+    "description": "Pravin's project involved forecasting Argentina's future energy demand by analyzing historical data and economic indicators like GDP and population trends. He used econometric modeling to identify key factors influencing energy consumption. The results provide essential insights for sustainable energy planning and policy development in Argentina.",
+    "demo": "/assets/argentina.pdf",
+    "source": "https://github.com/MrClassic1011"
+  },
+  {
+    "key": 5,
+    "title": "Carbonator : GHG Accounting tool (Under development)",
+    "imageSrc": "https://pixabay.com/get/g31f414fcfb351a1d4df945ce878f12effdb16cd7e44c97d5a1e9070d4fc1bde002531ba1121f6043e86cc68e31bc88d8.jpg",
+    "description": "Carbonator is a Python tool designed to calculate and analyze greenhouse gas emissions from various sources. It uses data input to generate detailed emission reports and visualizations, helping users understand their environmental impact. The tool aims to simplify carbon footprint analysis and support sustainability efforts.",
+    "demo": "https://github.com/MrClassic1011",
+    "source": "https://github.com/MrClassic1011"
+  },
+  {
+    "key": 6,
+    "title": "Corporate Physical Risk Calculator: Evaluating Environmental Vulnerabilities (Future Project)",
+    "imageSrc": "https://pixabay.com/get/g7c9f08be82f89b061bde6abbc6491b14092a2515e9ae8875f4c6520021f2fd72381c6b2ee4d8b42c0aa20ba799aac71c.jpg",
+    "description": "Pravin's project involves developing a tool to assess and quantify the physical risks companies face from environmental hazards. It evaluates factors such as climate change, extreme weather, and natural disasters to determine potential impacts on business operations. The goal is to help companies identify vulnerabilities and improve their risk management strategies.",
+    "demo": "https://github.com/MrClassic1011",
+    "source": "https://github.com/MrClassic1011"
   }
 ]

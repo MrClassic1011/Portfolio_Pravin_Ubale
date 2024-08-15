@@ -16,23 +16,23 @@ const Contact = () => {
           data-aos="zoom-in-up"
           data-aos-duration="1000"
         >
-          <a href="https://www.google.com" target="_blank" className="items">
+          <a href="https://pravinubale-mr-classics-projects.vercel.app/" target="_blank" className="items">
             <FaInstagram className="icons" />
           </a>
-          <a href="https://www.google.com" target="_blank" className="items">
+          <a href="https://pravinubale-mr-classics-projects.vercel.app/" target="_blank" className="items">
             <CiFacebook className="icons" />
           </a>
-          <a href="https://www.google.com" target="_blank" className="items">
+          <a href="http://www.linkedin.com/in/pravin-ubale-261541226" target="_blank" className="items">
             <CiLinkedin className="icons" />
           </a>
-          <a href="https://www.google.com" target="_blank" className="items">
+          <a href="https://pravinubale-mr-classics-projects.vercel.app/" target="_blank" className="items">
             <FaSquareXTwitter className="icons" />
           </a>
-          <a href="https://www.github.com" target="_blank" className="items">
+          <a href="https://github.com/MrClassic1011" target="_blank" className="items">
             <FaGithubSquare className="icons" />
           </a>
           <a
-            href="mailto:webdevmastery@gmail.com"
+            href="mailto:pravinubale497@gmail.com"
             target="_blank"
             className="items"
           >
