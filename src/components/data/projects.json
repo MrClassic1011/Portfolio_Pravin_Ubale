@@ -16,11 +16,19 @@
     "source": "https://github.com/MrClassic1011"
   },
   {
-    "key": 3,
+    "key": 6,
     "title": "Pravin Ubale | ESG Research and Sustainable Solutions",
     "imageSrc": "/assets/code.jpg",
     "description": "Skills: Web Development, HTML, CSS, JS, SQL :- Pravin is proficient in web development, specializing in building responsive, dynamic interfaces using React.js and integrating APIs. He ensures clean, optimized code and has experience with full-stack development.",
     "demo": "https://pravinubale-mr-classics-projects.vercel.app/",
+    "source": "https://github.com/MrClassic1011"
+  },
+  {
+    "key": 3,
+    "title": "Titanic Tragedy | Python | Tableau | Data Analysis",
+    "imageSrc": "/assets/titanic.png",
+    "description": "The data analytics dashboard reveals significant differences in survival rates among various passenger classes on the Titanic. When examining the survival percentages, a substantial disparity is evident. First-class passengers had almost three times the survival rate compared to third-class passengers. This underscores the importance of analyzing survival percentages rather than merely the total number of survivors.",
+    "demo": "https://github.com/MrClassic1011/Titanic-Tragedy/blob/main/Pravin's_Titanic_I_End_to_end_DA_project_ipynb.ipynb",
     "source": "https://github.com/MrClassic1011"
   },
   {
@@ -40,7 +48,7 @@
     "source": "https://github.com/MrClassic1011"
   },
   {
-    "key": 6,
+    "key": 7,
     "title": "Corporate Physical Risk Calculator: Evaluating Environmental Vulnerabilities (Future Project)",
     "imageSrc": "/assets/risk.jpg",
     "description": "Pravin's project involves developing a tool to assess and quantify the physical risks companies face from environmental hazards. It evaluates factors such as climate change, extreme weather, and natural disasters to determine potential impacts on business operations. The goal is to help companies identify vulnerabilities and improve their risk management strategies.",
